@@ -12,4 +12,4 @@ the group members as it follows:
 ## Installiation Insctruction
 
 
-[Here is a picture]https://codeandhack.com/wp-content/uploads/2020/07/Google-open-source-projects.jpg
+![Here is a picture](https://codeandhack.com/wp-content/uploads/2020/07/Google-open-source-projects.jpg)
