@@ -4,6 +4,6 @@ this is our second collaborative proggraming project.
 
 the group members as it follows:
 
-| Name | email | 
-
+| Name | Email | 
+| ----- | ----- | 
 | zunsal | zunsal1234@gmail.com |
